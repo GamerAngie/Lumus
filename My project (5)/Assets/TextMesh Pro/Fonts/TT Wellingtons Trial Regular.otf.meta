@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bcdda43ab97944a4495ab4914efe888d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TT Wellingtons Trl
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 814b98c80e194854d94c536e7136457c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
